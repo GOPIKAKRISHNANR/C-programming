@@ -1,6 +1,6 @@
 
 /*
-program to find the multiples of eleven
+program to find the multiples of eleven b/w 100 and 500
 Their sum and 
 Count
 */
