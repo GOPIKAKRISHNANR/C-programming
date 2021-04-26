@@ -9,5 +9,5 @@ int main()
   {
     sum=sum+i;
   }
-    printf("The sum of %d natural numbers is %d\n",n,sum);
+    printf("The sum of first %d natural numbers is %d\n",n,sum);
 }
