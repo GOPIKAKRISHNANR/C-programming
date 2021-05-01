@@ -1,3 +1,4 @@
+//program to check squares of first twenty natural numbers
 #include<stdio.h>
 void main()
 {
