@@ -1,5 +1,6 @@
+//program to print entering single digit number
 #include<stdio.h>
-void main()
+int main()
 {
   int a;
   printf("Enter a single digit number :");
