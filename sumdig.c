@@ -11,5 +11,5 @@ void main()
    s=s+d;
    n=n/10;
  }
- printf("sum of the digits of %d is",s);
+ printf("sum = %d\n",s);
 }
