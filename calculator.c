@@ -27,6 +27,8 @@ void main()
       d=a/b;
       printf("%d",d);
       break;
+    default:
+      printf("Invalid choice"):
 
   }
   printf("\n");
