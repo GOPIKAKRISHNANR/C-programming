@@ -1,3 +1,4 @@
+//program to print welcome name(eg:Welcome Gopika)
 #include<stdio.h>
 int main()
 {
